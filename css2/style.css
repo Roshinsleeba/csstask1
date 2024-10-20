@@ -1,0 +1,10 @@
+a[target="_blank"]
+{
+    color: green;
+}
+a[title]{
+    background-color: lightgray;
+}
+input[type="text"]{
+    color: blue;
+}

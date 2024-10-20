@@ -1,0 +1,6 @@
+li:nth-child(odd){
+    color: grey;
+}
+li:first-child{
+    font-style: italic;
+}

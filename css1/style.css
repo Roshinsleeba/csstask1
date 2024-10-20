@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+.intro{
+    font-size: 18px;
+}
+p:not(.intro){
+    color: red;
+}
